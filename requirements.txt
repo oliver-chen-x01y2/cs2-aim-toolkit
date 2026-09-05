@@ -1,0 +1,5 @@
+opencv-python==4.8.1
+pynput==1.7.6
+pywin32==306
+numpy==1.24.3
+dxcam==0.0.11
